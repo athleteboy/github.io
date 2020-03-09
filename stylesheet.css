@@ -1,0 +1,157 @@
+body{
+  font-family: Hiragino Mincho ProN;
+}
+
+.header{
+  background-color:#ccccff;
+  height: 100px;
+}
+
+li{
+  list-style: none;
+}
+
+.header-logo{
+  color:#0000ff;
+  font-size:36px;
+  float:left;
+  margin: 15px 20px;
+}
+
+.header-list li{
+  float:left;
+  padding: 40px 30px;
+}
+
+img{
+  width:200px;
+  height:200px;
+}
+
+.main{
+  background-color: #dbffed;
+}
+
+.logo1{
+  font-size:50px
+
+}
+
+.logo1{
+  margin-top:30px;
+  margin-left:110px;
+  border-bottom:2px solid #000000;
+}
+
+.logo2{
+  font-size: 50px;
+  border-bottom:2px solid #000000;
+}
+
+span{
+  color;#ffff00;
+}
+
+.logo3{
+  margin:20px 60px;
+}
+
+.logo4{
+  margin-left:80px;
+  margin-bottom:20px;
+}
+
+.logo5{
+  margin-left:160px;
+}
+
+.logo6{
+  font-size:40px;
+  margin-top:50px;
+  margin-left:250px;
+  border-bottom:2px solid #000000;
+}
+
+.logo7{
+  margin:20px 60px;
+}
+
+.logo8{
+  margin:20px 60px;
+}
+
+.logo9{
+  margin:20px 60px;
+}
+
+.logo10{
+  margin:20px 50px;
+}
+
+.logo11{
+  margin:20px 60px;
+}
+
+.logo12{
+  margin:20px 60px;
+}
+
+.logo13{
+  margin:20px 60px;
+}
+
+.logo14{
+  margin-top:20px;
+  margin-bottom:20px;
+  margin-left:500px;
+}
+
+.contents{
+  margin-top:30px;
+}
+
+.logo15{
+  color:#192f60;
+}
+
+.logo15{
+  margin-left:30px;
+}
+
+.logo16{
+  margin-left:20px;
+}
+
+.logo17{
+  margin-top:5px;
+  margin-left:28px;
+}
+
+.contents-list{
+  border:2px solid #001e43;
+}
+
+input,textarea{
+  height:20px;
+  width:200px;
+  font-size:20@x;
+}
+
+.logo18{
+  background-color: #ccccff;
+}
+
+.footer{
+  margin-top:30px;
+  background-color: #ccccff;
+}
+
+
+.footer-logo{
+  float:left;
+  margin-top:50px;
+}
+
+.footer-list{
+  float:right;
+}
